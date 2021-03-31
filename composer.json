@@ -15,6 +15,7 @@
 	"repositories": [],
 	"minimum-stability": "dev",
 	"extra": {
+		"autotagger": true,
 		"mirror-repo": "Automattic/jetpack-config",
 		"changelogger": {
 			"link-template": "https://github.com/Automattic/jetpack-config/compare/v${old}...v${new}"
